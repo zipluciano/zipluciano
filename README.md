@@ -1,11 +1,10 @@
-<h1 style="text-align: center">Hello 👋</h1>
+<h1>Hello 👋</h1>
 <h2>Here a few things about me 👇</h2>
 
 <h3>Overview</h3>
 <p>
-My name is Luciano, I'm from Florianópolis. I am a Civil Engineering
-student at the Federal University of Santa Catarina (UFSC) and I am
-passionate about technology. My dream has always been to work with IT, but
+My name is Luciano, I'm from Florianópolis. I'm a Civil Engineering
+student at the Federal University of Santa Catarina (UFSC) and passionate about technology. My dream has always been to work with IT, but
 some choices guided me to Engineering after high school, now I'm back on
 the path to becoming a Full Stack Web Developer.
 </p>
@@ -13,7 +12,7 @@ the path to becoming a Full Stack Web Developer.
 <h3>Informations</h3>
 <ul>
 <li><strong>Full Name</strong>: Luciano Espíndula Monteiro</li>
-<li><strong>Age</strong>: <span class="age">24</span></li>
+<li><strong>Age</strong>: 24</li>
 <li><strong>City</strong>: Florianópolis - SC</li>
 <li>
 <strong>Web Stack</strong><br><br>
@@ -107,7 +106,6 @@ alt=""
 </ul>
 
 <h3>Contact</h3>
-<span>
 <a
 href="https://www.linkedin.com/in/luciano-espindula/"
 target="_blank"
@@ -117,10 +115,5 @@ src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linke
 alt=""
 />
 </a>
-</span>
-<a href="mailto: luciano.es.mo@gmail.com" target="_blank">
-<img
-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-alt=""
-/>
-</a>
+
+<h4>Thanks for visiting! 🖐️</h4>

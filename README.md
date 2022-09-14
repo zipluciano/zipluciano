@@ -5,8 +5,7 @@
 <p>
 My name is Luciano, I'm from Florianópolis. I'm a Civil Engineering
 student at the Federal University of Santa Catarina (UFSC) and passionate about technology. My dream has always been to work with IT, but
-some choices guided me to Engineering after high school, now I'm back on
-the path to becoming a Full Stack Web Developer.
+some choices guided me to Engineering after high school. Currently I work as Front-end Software Developer at <a href="https://aurum.com.br/" target="_blank">Aurum Software</a>.
 </p>
 
 <h3>Informations</h3>
@@ -34,15 +33,38 @@ src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=jav
 alt=""
 />
 </span>
+<img
+src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+alt=""
+/>
+</span>
 <span>
 <img
 src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 alt=""
 />
-</span> 
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"
+alt=""
+/>
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+alt=""
+/>
+</span><br />
 <span>
 <img
 src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+alt=""
+/>
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
 alt=""
 />
 </span>
@@ -57,8 +79,38 @@ alt=""
 src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
 alt=""
 />
-</span>   
-  <li><a href="https://zipluciano.github.io/luciano-es-mon/" target="_blank">Portfolio</a></li>
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+alt=""
+/>
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"
+alt=""
+/>
+</span><br />
+<span>
+<img
+src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+alt=""
+/>
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"
+alt=""
+/>
+</span>
+<span>
+<img
+src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+alt=""
+/>
+</span>
+<li><a href="https://zipluciano.github.io/luciano-es-mon/" target="_blank">Portfolio</a></li>
 </li>
 </ul>
 
@@ -90,13 +142,13 @@ alt=""
 src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
 alt=""
 />
-</span>    
+</span>
 <span>
 <img
 src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
 alt=""
 />
-</span>    
+</span>
 </li>
 </ul>
 

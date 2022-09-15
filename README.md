@@ -13,6 +13,7 @@ some choices guided me to Engineering after high school. Currently I work as Fro
 <li><strong>Full Name</strong>: Luciano Espíndula Monteiro</li>
 <li><strong>Age</strong>: 25</li>
 <li><strong>City</strong>: Florianópolis - SC</li>
+<li><a href="https://luciano-esm.herokuapp.com/" target="_blank">Personal website</a></li>
 <li>
 <strong>Web Stack</strong><br><br>
 <span>
@@ -110,7 +111,6 @@ src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=ama
 alt=""
 />
 </span>
-<li><a href="https://zipluciano.github.io/luciano-es-mon/" target="_blank">Portfolio</a></li>
 </li>
 </ul>
 

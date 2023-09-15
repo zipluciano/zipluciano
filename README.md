@@ -13,7 +13,6 @@ some choices guided me to Engineering after high school. Currently I work as Fro
 <li><strong>Full Name</strong>: Luciano Espíndula Monteiro</li>
 <li><strong>Age</strong>: 25</li>
 <li><strong>City</strong>: Florianópolis - SC</li>
-<li><a href="https://zipluciano.vercel.app/" target="_blank">Personal website</a></li>
 <li>
 <strong>Web Stack</strong><br><br>
 <span>
